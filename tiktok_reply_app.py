@@ -12,6 +12,7 @@ SERVICE_ID = 4575                           # STAVI TAČAN service ID za TikTok 
 
 REPLIES_SET_1 = [
     "For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how money acutally works... ",
+    "Actually I cant believe how is easy to find this book. Just search full name of the book and the first site is their official site. Cant believe how easy it is to find this",
     "The fact is, this book is real and it truly teaches you how to be successful. It's up to each of us to take the chance and read it. Goated book"
     "IS IT REAL that people actually know about this book??? I’m so happy to see others who’ve read it too. Chapter 4 is literally a gold mine, it changed an entire area of my life",
     "This book will become top 1 for money strategies and mindset, I can guarantee that. I highly recommend it to everyone..",
@@ -331,5 +332,6 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
 
 
