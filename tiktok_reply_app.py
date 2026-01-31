@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # 🔧 KONFIGURACIJA – OVO POPUNI
 PANEL_URL = "https://dnoxsmm.com/api/v2"
-API_KEY = "09e6e0fdfba11b73696a0a04965d2fe5"          # npr. 6b4b33ef856ee4ef973fcaa450e62786
+API_KEY = "980ad62c3a7bee30fbdff10d88631ad4"          # npr. 6b4b33ef856ee4ef973fcaa450e62786
 SERVICE_ID = 4575                           # STAVI TAČAN service ID za TikTok custom comment reply
 
 # 🔁 LISTE REPLYEVA – TVOJE LISTE
@@ -332,6 +332,7 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
 
 
 
