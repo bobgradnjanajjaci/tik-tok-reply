@@ -28,7 +28,7 @@ REPLIES_SET_1 = [
 
     "For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how are we controlled and how to actually leave this cycle...",
 
-    "It’s sad that today people would rather scroll TikTok than read something like this. And that’s what makes it even sadder they’d learn so much more from reading this book than from motivational TikToks."
+    "It’s sad that today people would rather scroll TikTok than read something like this. And that’s what makes it even sadder they’d learn so much more from reading this book than from motivational TikToks.",
 
     "Goated book fr",
 
