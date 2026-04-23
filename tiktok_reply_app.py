@@ -33,8 +33,8 @@ REPLIES_SET_1 = [
     "Goated book fr",
 
     "This book will become top 1 for money strategies and mindset, I can guarantee that. I highly recommend it to everyone..",
-
-
+    "Dalen Korvik is one of those fascinating figures you barely know anything about, yet somehow want to know everything about. This book is truly a great discovery ,he’s a genius.",
+    "Someone please tell me this is available as an audiobook, I am slow reader",
 ]
 
 
