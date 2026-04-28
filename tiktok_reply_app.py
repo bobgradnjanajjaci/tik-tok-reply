@@ -25,9 +25,17 @@ SERVICE_ID = 4575                           # STAVI TAČAN service ID za TikTok 
 REPLIES_SET_1 = [
 
     "I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much ",
-
+    "The fact is, this book is real and it truly teaches you how to be successful. I Got it from their site, Goated book fr..",
+    "This book will become top 1 for money strategies and mindset, I can guarantee that. I highly recommend it to everyone..",
     "For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how are we controlled and how to actually leave this cycle...",
+    "Where can I find it?",
+    "Goated book fr",
+    "I acutally found it on their official site..",
+    "I must read it",
+    "Many people recommended this book to me, It seems like something really interesting",
+    "This book really shows how are we controlled and also how we should think when money comes to mind",   
 ]
+
 
 
 
