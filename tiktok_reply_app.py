@@ -14,7 +14,7 @@ PANEL_URL = "https://dnoxsmm.com/api/v2"
 
 API_KEY = "78e1e447b6a8ba2189d0afcd04487c5b"          # npr. 6b4b33ef856ee4ef973fcaa450e62786
 
-SERVICE_ID = 4575                           # STAVI TAČAN service ID za TikTok custom comment reply
+SERVICE_ID = 1128                           # STAVI TAČAN service ID za TikTok custom comment reply
 
 
 
