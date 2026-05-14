@@ -27,9 +27,9 @@ REPLIES_SET_1 = [
     "For me its scary how much power this book has. I felt like someone had reached into my head and exposed everything about how are we controlled and how to actually leave this cycle",
     "i bought one of the “Virexon Cycle” books on amazon first and paid more for it thinking it was the real version , biggest mistake honestly. Only after getting the original from the official website i finally understood the hype around the book",
     "the weird part is realizing how many people still have no idea this book even exists",
-    "i bought one of the “Virexon Cycle” books on amazon first and paid more for it thinking it was the real version , biggest mistake honestly. Only after getting the original from the official website i finally understood the hype around the book",
-    "don’t buy the amazon versions i did first and instantly regretted it. the original from the official website genuinely changed the way i see the world",
-    "don’t buy the amazon versions i did first and instantly regretted it. the original from the official website genuinely changed the way i see the world",
+    "I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much ",
+    "I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much ",
+    "I saw that this book was removed a few time, and there are rumors that the author is part of some high tier people. It really revealed too much ",
 ]
 
 
